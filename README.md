@@ -1,5 +1,7 @@
 # -NumPay
 
+import numpay as np
+
 
 # skaler = np.array(5)
 # vektoal = np.array([1,2,3,4])
